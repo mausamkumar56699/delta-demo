@@ -1,5 +1,5 @@
 # delta-demo
-This is a Demo for Git &amp; Github class.
+This is a demo for Git &amp; Github class.
 
 # Teacher 
 shradha khpra
